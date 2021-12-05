@@ -1,0 +1,717 @@
+Question # 1: Autodoc FR (ADFR), Installation on MacOS BIG SUR
+Tags: ['python', 'python-2.7', 'installation', 'macos-big-sur', 'autodoc']
+ ____________________________________
+Question # 2: Docker Gunicorn Flask server no longer working with python requests after locust.io testing
+Tags: ['python', 'docker', 'flask', 'python-requests', 'gunicorn']
+ ____________________________________
+Question # 3: I am Trying to make a AI voice assistant then i got this error which i tried searching on the internet but didn&#39;t work
+Tags: ['python', 'machine-learning', 'neural-network', 'artificial-intelligence', 'torch']
+ ____________________________________
+Question # 4: Django uploading images via admin panel error
+Tags: ['python', 'django']
+ ____________________________________
+Question # 5: TypeError: unsupported operand type(s) for *: &#39;int&#39; and &#39;method&#39; on line 21 anyone know a fix?
+Tags: ['python']
+ ____________________________________
+Question # 6: Can you do transfer learning on SSD mobilnetv2 via tensorflow? is functional API compatible?
+Tags: ['python', 'tensorflow', 'keras']
+ ____________________________________
+Question # 7: How to set the same value in multiple index of array once python?
+Tags: ['python', 'arrays']
+ ____________________________________
+Question # 8: BERT text classification example training error
+Tags: ['python', 'keras']
+ ____________________________________
+Question # 9: FileNotFoundError: [Errno 2] No such file or directory: &#39;/var/run/wpa_supplicant&#39;
+Tags: ['python', 'wifi', 'wpa']
+ ____________________________________
+Question # 10: 429: Too many requests, Python
+Tags: ['python', 'beautifulsoup', 'http-status-code-429']
+ ____________________________________
+Question # 11: Cross conformal predictor on Iris dataset
+Tags: ['python', 'machine-learning', 'scikit-learn', 'svm']
+ ____________________________________
+Question # 12: Trying to read large csv using pandas but process is getting killed in between
+Tags: ['python', 'pandas', 'dataframe', 'csv', 'amazon-ec2']
+ ____________________________________
+Question # 13: divide different colours in color bar
+Tags: ['python', 'matplotlib', 'scatter-plot']
+ ____________________________________
+Question # 14: Confused by accessing class methods
+Tags: ['python', 'oop', 'python-3.10']
+ ____________________________________
+Question # 15: Python - &#39;Syntax Error: invalid syntax&#39; - can&#39;t find the reason
+Tags: ['python', 'selenium', 'selenium-webdriver']
+ ____________________________________
+Question # 16: Is it possile to write label names and attribute name on the treemap using pygal?
+Tags: ['python', 'plot', 'treemap', 'pygal']
+ ____________________________________
+Question # 17: Formatting a set of date columns in pandas dataframe
+Tags: ['python', 'pandas']
+ ____________________________________
+Question # 18: Pattern Matching in Python getting Error : called match pattern must be a type
+Tags: ['python', 'pattern-matching']
+ ____________________________________
+Question # 19: import 2 dimensional csv to 3 dimensional python
+Tags: ['python', 'arrays', 'pandas', 'import']
+ ____________________________________
+Question # 20: Gradient in TF1 to GradientTape in TF2
+Tags: ['python', 'tensorflow', 'machine-learning', 'keras']
+ ____________________________________
+Question # 21: HTML inline images in pandas DataFrame using Python
+Tags: ['python', 'html', 'pandas', 'dataframe']
+ ____________________________________
+Question # 22: Beautiful Soup select google image returns empty list
+Tags: ['python', 'beautifulsoup', 'web-crawler']
+ ____________________________________
+Question # 23: Making display not reset on for loop
+Tags: ['python', 'python-3.x', 'pygame']
+ ____________________________________
+Question # 24: Python pltplot graph, show empty graph
+Tags: ['python', 'physics']
+ ____________________________________
+Question # 25: Is it ok to use truthy / falsey values for logical conditions in python with lists and strings?
+Tags: ['python']
+ ____________________________________
+Question # 26: Code advice | advent of code 2021 day 5 - my code solves the example but not the actual problem
+Tags: ['python', 'numpy', 'numpy-ndarray']
+ ____________________________________
+Question # 27: How a python function works in the inside(depth)?
+Tags: ['python', 'function', 'lambda', 'logic']
+ ____________________________________
+Question # 28: Get a list of values from a pandas dataframe
+Tags: ['python', 'pandas', 'dataframe', 'pandas-groupby']
+ ____________________________________
+Question # 29: Is there a way to change the chromedriver process name in the task manager?
+Tags: ['python', 'selenium']
+ ____________________________________
+Question # 30: Python Selenium scraping, Out of Memory error
+Tags: ['python', 'selenium']
+ ____________________________________
+Question # 1: Django uploading images via admin panel error
+Tags: ['python', 'django']
+ ____________________________________
+Question # 2: TypeError: unsupported operand type(s) for *: &#39;int&#39; and &#39;method&#39; on line 21 anyone know a fix?
+Tags: ['python']
+ ____________________________________
+Question # 3: Can you do transfer learning on SSD mobilnetv2 via tensorflow? is functional API compatible?
+Tags: ['python', 'tensorflow', 'keras']
+ ____________________________________
+Question # 4: How to set the same value in multiple index of array once python?
+Tags: ['python', 'arrays']
+ ____________________________________
+Question # 5: BERT text classification example training error
+Tags: ['python', 'keras']
+ ____________________________________
+Question # 6: FileNotFoundError: [Errno 2] No such file or directory: &#39;/var/run/wpa_supplicant&#39;
+Tags: ['python', 'wifi', 'wpa']
+ ____________________________________
+Question # 7: 429: Too many requests, Python
+Tags: ['python', 'beautifulsoup', 'http-status-code-429']
+ ____________________________________
+Question # 8: Cross conformal predictor on Iris dataset
+Tags: ['python', 'machine-learning', 'scikit-learn', 'svm']
+ ____________________________________
+Question # 9: Trying to read large csv using pandas but process is getting killed in between
+Tags: ['python', 'pandas', 'dataframe', 'csv', 'amazon-ec2']
+ ____________________________________
+Question # 10: divide different colours in color bar
+Tags: ['python', 'matplotlib', 'scatter-plot']
+ ____________________________________
+Question # 11: Confused by accessing class methods
+Tags: ['python', 'oop', 'python-3.10']
+ ____________________________________
+Question # 12: Python - &#39;Syntax Error: invalid syntax&#39; - can&#39;t find the reason
+Tags: ['python', 'selenium', 'selenium-webdriver']
+ ____________________________________
+Question # 13: Is it possile to write label names and attribute name on the treemap using pygal?
+Tags: ['python', 'plot', 'treemap', 'pygal']
+ ____________________________________
+Question # 14: Formatting a set of date columns in pandas dataframe
+Tags: ['python', 'pandas']
+ ____________________________________
+Question # 15: Pattern Matching in Python getting Error : called match pattern must be a type
+Tags: ['python', 'pattern-matching']
+ ____________________________________
+Question # 16: import 2 dimensional csv to 3 dimensional python
+Tags: ['python', 'arrays', 'pandas', 'import']
+ ____________________________________
+Question # 17: Gradient in TF1 to GradientTape in TF2
+Tags: ['python', 'tensorflow', 'machine-learning', 'keras']
+ ____________________________________
+Question # 18: HTML inline images in pandas DataFrame using Python
+Tags: ['python', 'html', 'pandas', 'dataframe']
+ ____________________________________
+Question # 19: Beautiful Soup select google image returns empty list
+Tags: ['python', 'beautifulsoup', 'web-crawler']
+ ____________________________________
+Question # 20: Making display not reset on for loop
+Tags: ['python', 'python-3.x', 'pygame']
+ ____________________________________
+Question # 21: Python pltplot graph, show empty graph
+Tags: ['python', 'physics']
+ ____________________________________
+Question # 22: Is it ok to use truthy / falsey values for logical conditions in python with lists and strings?
+Tags: ['python']
+ ____________________________________
+Question # 23: Code advice | advent of code 2021 day 5 - my code solves the example but not the actual problem
+Tags: ['python', 'numpy', 'numpy-ndarray']
+ ____________________________________
+Question # 24: How a python function works in the inside(depth)?
+Tags: ['python', 'function', 'lambda', 'logic']
+ ____________________________________
+Question # 25: Get a list of values from a pandas dataframe
+Tags: ['python', 'pandas', 'dataframe', 'pandas-groupby']
+ ____________________________________
+Question # 26: Is there a way to change the chromedriver process name in the task manager?
+Tags: ['python', 'selenium']
+ ____________________________________
+Question # 27: Python Selenium scraping, Out of Memory error
+Tags: ['python', 'selenium']
+ ____________________________________
+Question # 28: ERROR: test_data_cleaning (test_module.DataCleaningTestCase)
+Tags: ['python', 'pandas', 'matplotlib', 'seaborn']
+ ____________________________________
+Question # 29: I need to connect tuple
+Tags: ['python']
+ ____________________________________
+Question # 30: Pulling a div element with Beautifulsoup that has no class, name, or id
+Tags: ['python', 'python-3.x', 'beautifulsoup']
+ ____________________________________
+Question # 31: Pulling a div element with Beautifulsoup that has no class, name, or id
+Tags: ['python', 'python-3.x', 'beautifulsoup']
+ ____________________________________
+Question # 32: Change django language code from URL pattern
+Tags: ['python', 'django', 'web']
+ ____________________________________
+Question # 33: use a def to ask user to select and active other def functions
+Tags: ['python']
+ ____________________________________
+Question # 34: Pytorch forecasting - Assertion Error when trying to forecast with new data with N-BEATS
+Tags: ['python', 'pandas', 'pytorch', 'time-series', 'pytorch-lightning']
+ ____________________________________
+Question # 35: Need to replace the values 0 to 6 in a column to the names of weekdays
+Tags: ['python']
+ ____________________________________
+Question # 36: Some objects of django forms are not saved in database?
+Tags: ['python', 'django', 'django-models', 'django-views', 'django-forms']
+ ____________________________________
+Question # 37: Appending first value of a list from a dictionary into the first value of another list; python
+Tags: ['python', 'list', 'dictionary', 'append']
+ ____________________________________
+Question # 38: Transform list comprehension to a foor loop
+Tags: ['python']
+ ____________________________________
+Question # 39: How to search similar words in linked list in python
+Tags: ['python']
+ ____________________________________
+Question # 40: find the longest increasing subsequence
+Tags: ['python']
+ ____________________________________
+Question # 41: Parsing website with BeautifulSoup and Requests returns None
+Tags: ['python', 'beautifulsoup', 'python-requests']
+ ____________________________________
+Question # 42: Get results with all values after decimal in pandas series
+Tags: ['python', 'pandas', 'series']
+ ____________________________________
+Question # 43: Write dictionary content to files with keys as filename
+Tags: ['python', 'amazon-s3', 'boto3']
+ ____________________________________
+Question # 44: SSLCertVerificationError when importing aiohttp after mysql.connector
+Tags: ['python', 'aiohttp', 'mysql-connector-python']
+ ____________________________________
+Question # 45: How to run Speaker Rocignition app on IOS
+Tags: ['python', 'machine-learning', 'mobile-development']
+ ____________________________________
+Question # 46: Is it possible to get the locations of traveling people (inside city) with Twitter API without searching for keywords?
+Tags: ['python', 'api', 'tweepy', 'twitter-oauth']
+ ____________________________________
+Question # 47: How to print a new line in Python
+Tags: ['python', 'codeigniter', 'python-requests']
+ ____________________________________
+Question # 48: what is the different between np.percentile vs 1.96*np.sqrt in datacamp?
+Tags: ['python', 'statistics', 'confidence-interval', 'stat']
+ ____________________________________
+Question # 49: how to find mutual objects in 2 queries in Django
+Tags: ['python', 'django']
+ ____________________________________
+Question # 50: jsonpickle compatability issue with python 2 and 3
+Tags: ['python', 'encoder']
+ ____________________________________
+Question # 51: How to add text to webpage in real-time using Flask Python
+Tags: ['python', 'flask']
+ ____________________________________
+Question # 52: Checking the numbers are 3 numbers apart from 1st to last in an unsorted array
+Tags: ['python', 'numpy']
+ ____________________________________
+Question # 53: I&#39;m having a problem calling a function from a different file
+Tags: ['python', 'function', 'file', 'command', 'python-import']
+ ____________________________________
+Question # 54: How to get all children of an element in python using selenium?
+Tags: ['javascript', 'python', 'selenium']
+ ____________________________________
+Question # 55: Amount by fixed date group pandas dafaframe
+Tags: ['python', 'pandas', 'dataframe', 'date', 'datetime']
+ ____________________________________
+Question # 56: Pandas - Count number of purchase for each customer for each specific product
+Tags: ['python', 'pandas', 'dataframe', 'data-science']
+ ____________________________________
+Question # 57: add Music21 environment class in my project
+Tags: ['python', 'pycharm', 'environment-variables', 'music21']
+ ____________________________________
+Question # 58: Checking folder and if it doesn&#39;t exist create it
+Tags: ['python', 'directory', 'subdirectory']
+ ____________________________________
+Question # 59: Listening to external socket with python Flask SocketIO
+Tags: ['python', 'sockets', 'flask']
+ ____________________________________
+Question # 60: How to get a specific tr element without class or id from a html document with BeafutifulSoup?
+Tags: ['python', 'html', 'web-scraping', 'beautifulsoup', 'tr']
+ ____________________________________
+Question # 61: How to get a specific tr element without class or id from a html document with BeafutifulSoup?
+Tags: ['python', 'html', 'web-scraping', 'beautifulsoup', 'tr']
+ ____________________________________
+Question # 62: how to return variable list of values from a python function
+Tags: ['python', 'function']
+ ____________________________________
+Question # 63: Django: Registration form on modals available on multiple pages
+Tags: ['python', 'django', 'authentication']
+ ____________________________________
+Question # 64: How to work with certificate file signed by the receiver SOAP
+Tags: ['python', 'python-3.x', 'web-services', 'soap', 'x509certificate']
+ ____________________________________
+Question # 65: Function not recognizable ?? Python Atom
+Tags: ['python', 'atom-editor']
+ ____________________________________
+Question # 66: why my countplot does not show any legend or variable name and values
+Tags: ['python', 'plot', 'seaborn']
+ ____________________________________
+Question # 67: Django Rest Framework Send Image in Email
+Tags: ['python', 'django', 'email', 'django-rest-framework']
+ ____________________________________
+Question # 68: Is there a way to parallelize TF-IDF vectorisation?
+Tags: ['python', 'parallel-processing', 'nlp', 'tf-idf']
+ ____________________________________
+Question # 69: how to compare an image with a folder of images ( then do a certain thing when they are 50% alike or something )
+Tags: ['python', 'image', 'compare', 'image-recognition', 'locate']
+ ____________________________________
+Question # 70: ValueError: Dataframe must have columns &quot;ds&quot; and &quot;y&quot; with the dates and values respectively. I would like to understand why its not working
+Tags: ['python', 'facebook-prophet']
+ ____________________________________
+Question # 71: Authentication failed django
+Tags: ['python', 'django', 'postgresql', 'docker']
+ ____________________________________
+Question # 72: idxs = cv2.dnn.NMSBoxes(boxes, confidence, MIN_CORP, NMS_THRESH) TypeError: Can&#39;t parse &#39;scores&#39;. Input argument doesn&#39;t provide sequence protocol
+Tags: ['python', 'opencv', 'deep-learning', 'detection', 'yolo']
+ ____________________________________
+Question # 73: How can I extract features/fields related to MQTT protocol from a PCAP file and save the result in a csv file using a python script or any other tool
+Tags: ['python', 'mqtt', 'feature-extraction', 'pcap']
+ ____________________________________
+Question # 74: python tic tac toe scoreboard not updating
+Tags: ['python', 'tic-tac-toe']
+ ____________________________________
+Question # 75: Is it possible to fix the camera model parameters using generated image?
+Tags: ['python', 'image', 'camera', 'computer-vision', 'google-chrome-devtools']
+ ____________________________________
+Question # 76: How to sort a list of object based on the object attributes?
+Tags: ['python', 'list', 'sorting']
+ ____________________________________
+Question # 77: Executing python file within another python file using Laravel
+Tags: ['python', 'linux', 'powershell', 'laravel-5', 'subprocess']
+ ____________________________________
+Question # 78: can&#39;t find html tag when I scrape web using beautifulsoup
+Tags: ['python', 'html', 'web-scraping', 'beautifulsoup']
+ ____________________________________
+Question # 79: NaNs create problems in scikit-learn
+Tags: ['python', 'pandas', 'dataframe', 'scikit-learn', 'nan']
+ ____________________________________
+Question # 80: Python mathematical expression evaluation
+Tags: ['python', 'python-3.x', 'expression']
+ ____________________________________
+Question # 81: Python - How to convert an opencv .py script to .apk?
+Tags: ['python', 'android', 'opencv']
+ ____________________________________
+Question # 82: Is there any alternative solution for minimum required filter problem?
+Tags: ['python', 'algorithm', 'time-complexity', 'dynamic-programming']
+ ____________________________________
+Question # 83: Django &quot;__str__ returned non-string (type tuple)&quot;
+Tags: ['python', 'django', 'tuples']
+ ____________________________________
+Question # 84: AND operator between multiple values in a function
+Tags: ['python', 'operators', 'args', 'and-operator']
+ ____________________________________
+Question # 85: How Do I Check Which PIP packages were installed by me and which came by defualt
+Tags: ['python', 'pip', 'default']
+ ____________________________________
+Question # 86: Concatenating and appending of DFs results in twice the amount of columns
+Tags: ['python', 'pandas', 'dataframe', 'concatenation', 'data-science']
+ ____________________________________
+Question # 87: I keep getting the error &quot;String Index out of range&quot; I have made sure that the array has enough indices. Can anyone see the problem?
+Tags: ['python', 'arrays', 'indexing', 'range']
+ ____________________________________
+Question # 88: Python: should I use threads to monitor a lot of I/O signals?
+Tags: ['python', 'multithreading', 'python-multithreading', 'algorithmic-trading']
+ ____________________________________
+Question # 89: Time Series Anomaly Detection Across Multiple Dimensions
+Tags: ['python', 'time-series', 'anomaly-detection']
+ ____________________________________
+Question # 90: The browser (or proxy) sent a request that this server could not understand. while implementing User verification in flask
+Tags: ['python', 'flask', 'twilio', 'twilio-api']
+ ____________________________________
+Question # 91: The browser (or proxy) sent a request that this server could not understand. while implementing User verification in flask
+Tags: ['python', 'flask', 'twilio', 'twilio-api']
+ ____________________________________
+Question # 92: how to quickly reverse one-hot enconding?
+Tags: ['python', 'image', 'neural-network', 'one-hot-encoding']
+ ____________________________________
+Question # 93: Jupyter Notebook is stuck on &quot;Loading...&quot;
+Tags: ['python', 'pandas', 'mongodb', 'jupyter-notebook', 'pymongo']
+ ____________________________________
+Question # 94: Why is the updated[value] = [] giving me TypeError: unhashable type: &#39;list&#39;?
+Tags: ['python', 'typeerror']
+ ____________________________________
+Question # 95: Getting PID of the process using the file
+Tags: ['python']
+ ____________________________________
+Question # 96: Getting PID of the process using the file
+Tags: ['python']
+ ____________________________________
+Question # 97: Getting PID of the process using the file
+Tags: ['python']
+ ____________________________________
+Question # 98: Getting PID of the process using the file
+Tags: ['python']
+ ____________________________________
+Question # 99: Getting PID of the process using the file
+Tags: ['python']
+ ____________________________________
+Question # 100: Getting PID of the process using the file
+Tags: ['python']
+ ____________________________________
+Question # 101: Getting PID of the process using the file
+Tags: ['python']
+ ____________________________________
+Question # 102: Getting PID of the process using the file
+Tags: ['python']
+ ____________________________________
+Question # 103: Getting PID of the process using the file
+Tags: ['python']
+ ____________________________________
+Question # 104: Getting PID of the process using the file
+Tags: ['python']
+ ____________________________________
+Question # 105: Getting PID of the process using the file
+Tags: ['python']
+ ____________________________________
+Question # 106: Getting PID of the process using the file
+Tags: ['python']
+ ____________________________________
+Question # 107: Getting PID of the process using the file
+Tags: ['python']
+ ____________________________________
+Question # 108: Getting PID of the process using the file
+Tags: ['python']
+ ____________________________________
+Question # 109: Getting PID of the process using the file
+Tags: ['python']
+ ____________________________________
+Question # 110: Getting PID of the process using the file
+Tags: ['python']
+ ____________________________________
+Question # 111: Getting PID of the process using the file
+Tags: ['python']
+ ____________________________________
+Question # 112: Getting PID of the process using the file
+Tags: ['python']
+ ____________________________________
+Question # 113: Getting PID of the process using the file
+Tags: ['python']
+ ____________________________________
+Question # 114: Getting PID of the process using the file
+Tags: ['python']
+ ____________________________________
+Question # 115: Getting PID of the process using the file
+Tags: ['python']
+ ____________________________________
+Question # 116: Getting PID of the process using the file
+Tags: ['python']
+ ____________________________________
+Question # 117: Getting PID of the process using the file
+Tags: ['python']
+ ____________________________________
+Question # 1: TypeError: unsupported operand type(s) for *: &#39;int&#39; and &#39;method&#39; on line 21 anyone know a fix?
+Tags: ['python']
+ ____________________________________
+Question # 2: Can you do transfer learning on SSD mobilnetv2 via tensorflow? is functional API compatible?
+Tags: ['python', 'tensorflow', 'keras']
+ ____________________________________
+Question # 3: How to set the same value in multiple index of array once python?
+Tags: ['python', 'arrays']
+ ____________________________________
+Question # 4: BERT text classification example training error
+Tags: ['python', 'keras']
+ ____________________________________
+Question # 5: FileNotFoundError: [Errno 2] No such file or directory: &#39;/var/run/wpa_supplicant&#39;
+Tags: ['python', 'wifi', 'wpa']
+ ____________________________________
+Question # 6: 429: Too many requests, Python
+Tags: ['python', 'beautifulsoup', 'http-status-code-429']
+ ____________________________________
+Question # 7: Cross conformal predictor on Iris dataset
+Tags: ['python', 'machine-learning', 'scikit-learn', 'svm']
+ ____________________________________
+Question # 8: Trying to read large csv using pandas but process is getting killed in between
+Tags: ['python', 'pandas', 'dataframe', 'csv', 'amazon-ec2']
+ ____________________________________
+Question # 9: divide different colours in color bar
+Tags: ['python', 'matplotlib', 'scatter-plot']
+ ____________________________________
+Question # 10: Confused by accessing class methods
+Tags: ['python', 'oop', 'python-3.10']
+ ____________________________________
+Question # 11: Python - &#39;Syntax Error: invalid syntax&#39; - can&#39;t find the reason
+Tags: ['python', 'selenium', 'selenium-webdriver']
+ ____________________________________
+Question # 12: Is it possile to write label names and attribute name on the treemap using pygal?
+Tags: ['python', 'plot', 'treemap', 'pygal']
+ ____________________________________
+Question # 13: Formatting a set of date columns in pandas dataframe
+Tags: ['python', 'pandas']
+ ____________________________________
+Question # 14: Pattern Matching in Python getting Error : called match pattern must be a type
+Tags: ['python', 'pattern-matching']
+ ____________________________________
+Question # 15: import 2 dimensional csv to 3 dimensional python
+Tags: ['python', 'arrays', 'pandas', 'import']
+ ____________________________________
+Question # 16: Gradient in TF1 to GradientTape in TF2
+Tags: ['python', 'tensorflow', 'machine-learning', 'keras']
+ ____________________________________
+Question # 17: HTML inline images in pandas DataFrame using Python
+Tags: ['python', 'html', 'pandas', 'dataframe']
+ ____________________________________
+Question # 18: Beautiful Soup select google image returns empty list
+Tags: ['python', 'beautifulsoup', 'web-crawler']
+ ____________________________________
+Question # 19: Making display not reset on for loop
+Tags: ['python', 'python-3.x', 'pygame']
+ ____________________________________
+Question # 20: Python pltplot graph, show empty graph
+Tags: ['python', 'physics']
+ ____________________________________
+Question # 21: Is it ok to use truthy / falsey values for logical conditions in python with lists and strings?
+Tags: ['python']
+ ____________________________________
+Question # 22: Code advice | advent of code 2021 day 5 - my code solves the example but not the actual problem
+Tags: ['python', 'numpy', 'numpy-ndarray']
+ ____________________________________
+Question # 23: How a python function works in the inside(depth)?
+Tags: ['python', 'function', 'lambda', 'logic']
+ ____________________________________
+Question # 24: Get a list of values from a pandas dataframe
+Tags: ['python', 'pandas', 'dataframe', 'pandas-groupby']
+ ____________________________________
+Question # 25: Is there a way to change the chromedriver process name in the task manager?
+Tags: ['python', 'selenium']
+ ____________________________________
+Question # 26: Python Selenium scraping, Out of Memory error
+Tags: ['python', 'selenium']
+ ____________________________________
+Question # 27: ERROR: test_data_cleaning (test_module.DataCleaningTestCase)
+Tags: ['python', 'pandas', 'matplotlib', 'seaborn']
+ ____________________________________
+Question # 28: I need to connect tuple
+Tags: ['python']
+ ____________________________________
+Question # 29: Pulling a div element with Beautifulsoup that has no class, name, or id
+Tags: ['python', 'python-3.x', 'beautifulsoup']
+ ____________________________________
+Question # 30: Change django language code from URL pattern
+Tags: ['python', 'django', 'web']
+ ____________________________________
+Question # 31: Change django language code from URL pattern
+Tags: ['python', 'django', 'web']
+ ____________________________________
+Question # 32: use a def to ask user to select and active other def functions
+Tags: ['python']
+ ____________________________________
+Question # 33: Pytorch forecasting - Assertion Error when trying to forecast with new data with N-BEATS
+Tags: ['python', 'pandas', 'pytorch', 'time-series', 'pytorch-lightning']
+ ____________________________________
+Question # 34: Need to replace the values 0 to 6 in a column to the names of weekdays
+Tags: ['python']
+ ____________________________________
+Question # 35: Some objects of django forms are not saved in database?
+Tags: ['python', 'django', 'django-models', 'django-views', 'django-forms']
+ ____________________________________
+Question # 36: Appending first value of a list from a dictionary into the first value of another list; python
+Tags: ['python', 'list', 'dictionary', 'append']
+ ____________________________________
+Question # 37: Transform list comprehension to a foor loop
+Tags: ['python']
+ ____________________________________
+Question # 38: How to search similar words in linked list in python
+Tags: ['python']
+ ____________________________________
+Question # 39: find the longest increasing subsequence
+Tags: ['python']
+ ____________________________________
+Question # 40: Parsing website with BeautifulSoup and Requests returns None
+Tags: ['python', 'beautifulsoup', 'python-requests']
+ ____________________________________
+Question # 41: Get results with all values after decimal in pandas series
+Tags: ['python', 'pandas', 'series']
+ ____________________________________
+Question # 42: Write dictionary content to files with keys as filename
+Tags: ['python', 'amazon-s3', 'boto3']
+ ____________________________________
+Question # 43: SSLCertVerificationError when importing aiohttp after mysql.connector
+Tags: ['python', 'aiohttp', 'mysql-connector-python']
+ ____________________________________
+Question # 44: How to run Speaker Rocignition app on IOS
+Tags: ['python', 'machine-learning', 'mobile-development']
+ ____________________________________
+Question # 45: Is it possible to get the locations of traveling people (inside city) with Twitter API without searching for keywords?
+Tags: ['python', 'api', 'tweepy', 'twitter-oauth']
+ ____________________________________
+Question # 46: How to print a new line in Python
+Tags: ['python', 'codeigniter', 'python-requests']
+ ____________________________________
+Question # 47: what is the different between np.percentile vs 1.96*np.sqrt in datacamp?
+Tags: ['python', 'statistics', 'confidence-interval', 'stat']
+ ____________________________________
+Question # 48: how to find mutual objects in 2 queries in Django
+Tags: ['python', 'django']
+ ____________________________________
+Question # 49: jsonpickle compatability issue with python 2 and 3
+Tags: ['python', 'encoder']
+ ____________________________________
+Question # 50: How to add text to webpage in real-time using Flask Python
+Tags: ['python', 'flask']
+ ____________________________________
+Question # 51: Checking the numbers are 3 numbers apart from 1st to last in an unsorted array
+Tags: ['python', 'numpy']
+ ____________________________________
+Question # 52: I&#39;m having a problem calling a function from a different file
+Tags: ['python', 'function', 'file', 'command', 'python-import']
+ ____________________________________
+Question # 53: How to get all children of an element in python using selenium?
+Tags: ['javascript', 'python', 'selenium']
+ ____________________________________
+Question # 54: Amount by fixed date group pandas dafaframe
+Tags: ['python', 'pandas', 'dataframe', 'date', 'datetime']
+ ____________________________________
+Question # 55: Pandas - Count number of purchase for each customer for each specific product
+Tags: ['python', 'pandas', 'dataframe', 'data-science']
+ ____________________________________
+Question # 56: add Music21 environment class in my project
+Tags: ['python', 'pycharm', 'environment-variables', 'music21']
+ ____________________________________
+Question # 57: Checking folder and if it doesn&#39;t exist create it
+Tags: ['python', 'directory', 'subdirectory']
+ ____________________________________
+Question # 58: Listening to external socket with python Flask SocketIO
+Tags: ['python', 'sockets', 'flask']
+ ____________________________________
+Question # 59: How to get a specific tr element without class or id from a html document with BeafutifulSoup?
+Tags: ['python', 'html', 'web-scraping', 'beautifulsoup', 'tr']
+ ____________________________________
+Question # 60: how to return variable list of values from a python function
+Tags: ['python', 'function']
+ ____________________________________
+Question # 61: Django: Registration form on modals available on multiple pages
+Tags: ['python', 'django', 'authentication']
+ ____________________________________
+Question # 62: How to work with certificate file signed by the receiver SOAP
+Tags: ['python', 'python-3.x', 'web-services', 'soap', 'x509certificate']
+ ____________________________________
+Question # 63: Function not recognizable ?? Python Atom
+Tags: ['python', 'atom-editor']
+ ____________________________________
+Question # 64: why my countplot does not show any legend or variable name and values
+Tags: ['python', 'plot', 'seaborn']
+ ____________________________________
+Question # 65: Django Rest Framework Send Image in Email
+Tags: ['python', 'django', 'email', 'django-rest-framework']
+ ____________________________________
+Question # 66: Is there a way to parallelize TF-IDF vectorisation?
+Tags: ['python', 'parallel-processing', 'nlp', 'tf-idf']
+ ____________________________________
+Question # 67: how to compare an image with a folder of images ( then do a certain thing when they are 50% alike or something )
+Tags: ['python', 'image', 'compare', 'image-recognition', 'locate']
+ ____________________________________
+Question # 68: ValueError: Dataframe must have columns &quot;ds&quot; and &quot;y&quot; with the dates and values respectively. I would like to understand why its not working
+Tags: ['python', 'valueerror', 'facebook-prophet']
+ ____________________________________
+Question # 69: Authentication failed django
+Tags: ['python', 'django', 'postgresql', 'docker']
+ ____________________________________
+Question # 70: idxs = cv2.dnn.NMSBoxes(boxes, confidence, MIN_CORP, NMS_THRESH) TypeError: Can&#39;t parse &#39;scores&#39;. Input argument doesn&#39;t provide sequence protocol
+Tags: ['python', 'opencv', 'deep-learning', 'detection', 'yolo']
+ ____________________________________
+Question # 71: How can I extract features/fields related to MQTT protocol from a PCAP file and save the result in a csv file using a python script or any other tool
+Tags: ['python', 'mqtt', 'feature-extraction', 'pcap']
+ ____________________________________
+Question # 72: python tic tac toe scoreboard not updating
+Tags: ['python', 'tic-tac-toe']
+ ____________________________________
+Question # 73: Is it possible to fix the camera model parameters using generated image?
+Tags: ['python', 'image', 'camera', 'computer-vision', 'google-chrome-devtools']
+ ____________________________________
+Question # 74: How to sort a list of object based on the object attributes?
+Tags: ['python', 'list', 'sorting']
+ ____________________________________
+Question # 75: Executing python file within another python file using Laravel
+Tags: ['python', 'linux', 'powershell', 'laravel-5', 'subprocess']
+ ____________________________________
+Question # 76: can&#39;t find html tag when I scrape web using beautifulsoup
+Tags: ['python', 'html', 'web-scraping', 'beautifulsoup']
+ ____________________________________
+Question # 77: NaNs create problems in scikit-learn
+Tags: ['python', 'pandas', 'dataframe', 'scikit-learn', 'nan']
+ ____________________________________
+Question # 78: Python mathematical expression evaluation
+Tags: ['python', 'python-3.x', 'expression']
+ ____________________________________
+Question # 79: Python - How to convert an opencv .py script to .apk?
+Tags: ['python', 'android', 'opencv']
+ ____________________________________
+Question # 80: Is there any alternative solution for minimum required filter problem?
+Tags: ['python', 'algorithm', 'time-complexity', 'dynamic-programming']
+ ____________________________________
+Question # 81: Django &quot;__str__ returned non-string (type tuple)&quot;
+Tags: ['python', 'django', 'tuples']
+ ____________________________________
+Question # 82: AND operator between multiple values in a function
+Tags: ['python', 'operators', 'args', 'and-operator']
+ ____________________________________
+Question # 83: How Do I Check Which PIP packages were installed by me and which came by defualt
+Tags: ['python', 'pip', 'default']
+ ____________________________________
+Question # 84: Concatenating and appending of DFs results in twice the amount of columns
+Tags: ['python', 'pandas', 'dataframe', 'concatenation', 'data-science']
+ ____________________________________
+Question # 85: I keep getting the error &quot;String Index out of range&quot; I have made sure that the array has enough indices. Can anyone see the problem?
+Tags: ['python', 'arrays', 'indexing', 'range']
+ ____________________________________
+Question # 86: Python: should I use threads to monitor a lot of I/O signals?
+Tags: ['python', 'multithreading', 'python-multithreading', 'algorithmic-trading']
+ ____________________________________
+Question # 87: Time Series Anomaly Detection Across Multiple Dimensions
+Tags: ['python', 'time-series', 'anomaly-detection']
+ ____________________________________
+Question # 88: The browser (or proxy) sent a request that this server could not understand. while implementing User verification in flask
+Tags: ['python', 'flask', 'twilio', 'twilio-api']
+ ____________________________________
+Question # 89: how to quickly reverse one-hot enconding?
+Tags: ['python', 'image', 'neural-network', 'one-hot-encoding']
+ ____________________________________
+Question # 90: Jupyter Notebook is stuck on &quot;Loading...&quot;
+Tags: ['python', 'pandas', 'mongodb', 'jupyter-notebook', 'pymongo']
+ ____________________________________
+Question # 91: Why is the updated[value] = [] giving me TypeError: unhashable type: &#39;list&#39;?
+Tags: ['python', 'typeerror']
+ ____________________________________
+Question # 92: Getting PID of the process using the file
+Tags: ['python']
+ ____________________________________
