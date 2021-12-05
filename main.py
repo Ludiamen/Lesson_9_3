@@ -36,7 +36,7 @@ def get_next_questions(fromdate, todate, tag, counter):
     params = {
         'fromdate': fromdate,
         'todate': todate,
-        'order': 'desc',
+        'order': 'asc',
         'sort': 'creation',
         'tagged': tag,
         'site': 'stackoverflow'
